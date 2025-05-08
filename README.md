@@ -1,2 +1,2 @@
 # LLMUNTest
-A Maml-based LLM Unlearning Framework to defend against Relearning Attacks
+A Maml-based LLM Unlearning Framework to Defend against Relearning Attacks

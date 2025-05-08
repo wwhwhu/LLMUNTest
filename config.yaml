@@ -1,0 +1,12 @@
+model:
+  name: gpt2
+  lora_r: 4
+
+training:
+  epochs: 10
+  batch_size: 32
+  learning_rate: 1e-4
+
+data:
+  support_set: data/wmdp-bio/
+  query_set: data/wikitext-2/
